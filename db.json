@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Fulano",
+      "registration": "41653",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "name": "Ciclano",
+      "registration": "143784",
+      "role": "admin"
+    }
+  ],
+  "calls": [
+    {
+      "id": 1,
+      "userId": 2,
+      "victimName": "Beltrano",
+      "comorbidity": "Ataque cardíaco",
+      "occurrence": "",
+      "localization": "Rua Princesa Isabel, S/N, Vila Belmiro",
+      "status": "Em Andamento"
+    }
+  ]
+}
