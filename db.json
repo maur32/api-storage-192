@@ -19,9 +19,10 @@
       "userId": 2,
       "victimName": "Beltrano",
       "comorbidity": "Ataque cardíaco",
-      "occurrence": "",
+      "occurrence": "Queimaduras graves",
       "localization": "Rua Princesa Isabel, S/N, Vila Belmiro",
-      "status": "Em Andamento"
+      "date": "29/11/2023, 13:28",
+      "status": "Em Analise"
     }
   ]
 }
